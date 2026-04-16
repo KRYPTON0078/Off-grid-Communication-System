@@ -2,7 +2,7 @@
 
 Meshtastic is an open source, off-grid, decentralized mesh communication platform built on affordable, low-power hardware.
 
-Developed by: *Magne Dina Neves - University of Macau*
+Developed by: ##*Magne Dina Neves - University of Macau*
 ## Project Gallery
 
 ![Final Device](images/final.jpg)
